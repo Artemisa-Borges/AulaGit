@@ -103,4 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 password
-DB_ProjectFinal
+Chip-seq_Template.csv
